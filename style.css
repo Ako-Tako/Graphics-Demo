@@ -1,0 +1,23 @@
+video {
+    width: 500px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.video {
+    margin: 20px;
+}
+
+.flex {
+    flex-wrap: wrap;
+    display:flex;
+    justify-content: center;
+}
+
+.title {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
